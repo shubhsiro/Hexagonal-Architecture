@@ -54,6 +54,7 @@ To run the application, execute the following command:
 
 ```bash
 go run cmd/main.go
+```
 
 ## Dependencies
 
