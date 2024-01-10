@@ -54,3 +54,10 @@ To run the application, execute the following command:
 
 ```bash
 go run cmd/main.go
+
+## Dependencies
+
+- **go-hclog:** Used for structured logging.
+
+- **github.com/stretchr/testify/assert:** Used for assertions in unit tests.
+
